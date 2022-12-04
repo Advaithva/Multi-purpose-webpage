@@ -4,8 +4,8 @@ iframe {
 }
 
 body {
-  padding:2cm;
-  font-size:32px;
+  padding:0;
+	margin:0;
   
 }
 
@@ -91,4 +91,11 @@ nav li {
 	background-blend-mode: lighten;
 	background-color: rgba(75,180,250,0.62);
 	color:#0000ff;
+}
+
+
+.main {
+	padding:2cm;
+  font-size:32px;
+	
 }
